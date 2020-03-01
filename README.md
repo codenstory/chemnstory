@@ -1,2 +1,1 @@
-# chemnstory
-Chemical formulae dictionary
+Chemical formulae Dictionary
